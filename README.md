@@ -55,7 +55,7 @@ I am currently learning more and more about web technologies, and I am curious t
 
 <p align="center">
     <a href="https://github.com/yasinbhojani/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="yasinbhojani streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yasinbhojani&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="75%"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="yasinbhojani streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yasinbhojani&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" width="75%"/>
     </a>
 </p>
 
@@ -87,10 +87,21 @@ I am currently learning more and more about web technologies, and I am curious t
 
 ---
 
-<a href="https://github.com/Meghna-usDAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=yasinbhojani">
+
+<!-- &nbsp;
+&nbsp; -->
+<a href="https://www.github.com/yasinbhojani" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/yasinbhojani?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" />
 </a>
-<a href="https://github.com/yasinbhojani?tab=followers"><img src="https://img.shields.io/github/followers/yasinbhojani?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<a href="https://github.com/yasinbhojani/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=yasinbhojani&style=for-the-badge&color=3382ed">
+</a>
+
+<a href="https://www.twitter.com/yasin_bhojani" target="_blank" rel="noreferrer">
+    <img
+    src="https://img.shields.io/twitter/follow/yasin_bhojani?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"/> 
+</a>
 
 <br/>
 <br/>
