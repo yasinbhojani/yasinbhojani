@@ -36,9 +36,10 @@ I love exploring new technologies and would love to collab on open source projec
 I am currently learning more and more about web technologies, and I am curious to work with other people ahead.
 
 <br/>
-
+<!-- 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![github Badge](https://img.shields.io/badge/-github-e535ab?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](#)
+[![github Badge](https://img.shields.io/badge/-github-e535ab?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](#) 
+-->
 
 <br/>
 
