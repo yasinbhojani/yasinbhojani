@@ -7,7 +7,7 @@
 
 - 🔭 Working on becoming a **Software Engineer**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React⚛️** 
 
 - 💬 Ask me about **HTML, CSS, JS**
 
