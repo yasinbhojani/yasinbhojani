@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React⚛️** 
 
-- 💬 Ask me about **HTML, CSS, JS**
+- 💬 Ask me about **HTML, CSS, JS, React**
 
 - 📫 How to reach me yasinbhojani333@gmail.com
 
