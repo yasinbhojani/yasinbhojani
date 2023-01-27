@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yasin</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 ## 🙋‍♂️ About Me
 
 ---
 
-- 🔭 Working on becoming a **Software Engineer**
+- 🔭 Working on becoming a **Fullstack Developer**
 
-- 🌱 I’m currently learning **React⚛️** 
+- 🌱 I’m currently learning **Node and Express** 
 
-- 💬 Ask me about **HTML, CSS, JS, React**
+- 💬 Ask me about **HTML, CSS, JavaScript, React**
 
 - 📫 How to reach me yasinbhojani333@gmail.com
 
