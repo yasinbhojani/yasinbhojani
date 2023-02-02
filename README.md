@@ -86,11 +86,6 @@ I am currently learning more and more about web technologies, and I am curious t
 
 
 <br/>
-<br/>
-
-<a href="https://github.com/yasinbhojani/github-readme-activity-graph"><img alt="GitHub-yasinbhojani Activity Graph" width="100%"  src="https://activity-graph.herokuapp.com/graph?username=yasinbhojani&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
 
 ## 🔗 Connect with me:
 
