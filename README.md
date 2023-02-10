@@ -53,6 +53,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+  </a>
 </p>
 
 <br/>
@@ -81,6 +84,10 @@ I am currently learning more and more about web technologies, and I am curious t
     </a>
 </p>
 
+<p align="center">
+  <a href="http://www.github.com/yasinbhojani"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=yasinbhojani&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+</p>
+
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -93,7 +100,7 @@ I am currently learning more and more about web technologies, and I am curious t
 
 <p align="left">
 <a href="https://twitter.com/yasin_bhojani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yasin_bhojani" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yasin-bhojani-519a3a168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasin-bhojani-519a3a168" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yasin-bhojani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasin-bhojani" height="30" width="40" /></a>
 <a href="https://dev.to/yasinbhojani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yasinbhojani" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14502144/yasin-bhojani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14502144/yasin-bhojani" height="30" width="40" /></a>
 </p>
