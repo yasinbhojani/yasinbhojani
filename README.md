@@ -122,10 +122,5 @@ I am currently learning more and more about web technologies, and I am curious t
     <img src="https://komarev.com/ghpvc/?username=yasinbhojani&style=for-the-badge&color=3382ed">
 </a>
 
-<a href="https://www.twitter.com/yasin_bhojani" target="_blank" rel="noreferrer">
-    <img
-    src="https://img.shields.io/twitter/follow/yasin_bhojani?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"/> 
-</a>
-
 <br/>
 <br/>
