@@ -100,7 +100,7 @@ I am currently learning more and more about web technologies, and I am curious t
 
 <p align="left">
 <a href="https://twitter.com/yasin_bhojani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yasin_bhojani" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yasin-bhojani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasin-bhojani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yasinbhojani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasin-bhojani" height="30" width="40" /></a>
 <a href="https://dev.to/yasinbhojani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yasinbhojani" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14502144/yasin-bhojani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14502144/yasin-bhojani" height="30" width="40" /></a>
 </p>
