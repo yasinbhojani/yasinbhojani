@@ -7,9 +7,9 @@
 
 - 🔭 Working on becoming a **Fullstack Developer**
 
-- 🌱 I’m currently learning **Node and Express** 
+- 🌱 I’m currently learning **TypeScript** 
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- 💬 Ask me about **JavaScript, React, Node, Express**
 
 - 📫 How to reach me yasinbhojani333@gmail.com
 
