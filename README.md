@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yasin</h1>
-<h3 align="center">A passionate Fullstack Developer from India</h3>
+![banner](./banner.png)
 
 ## 🙋‍♂️ About Me
 
