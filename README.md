@@ -6,7 +6,7 @@
 
 - 🔭 Working on becoming a **Fullstack Developer**
 
-- 🌱 I’m currently learning **TypeScript** 
+- 🌱 I’m currently learning **TypeScript and DSA** 
 
 - 💬 Ask me about **JavaScript, React, Node, Express**
 
