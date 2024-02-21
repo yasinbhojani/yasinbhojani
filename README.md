@@ -52,15 +52,15 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
   </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img width="36" height="36" src="https://img.icons8.com/color/96/postgreesql.png" alt="postgreesql"/>
+  </a>
     <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png" alt="java" width="40" height="40"/>
   </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="c" width="40" height="40"/> 
   </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a>
 </p>
 
 <br/>
